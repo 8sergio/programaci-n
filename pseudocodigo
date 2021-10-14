@@ -1,0 +1,11 @@
+estoy dormido?:
+ *si:despertar
+ *no: continuar
+pararse de cama
+lavar dientes
+desayunar
+esta prendido el pc?:
+ *si:continuar
+ *no:prender pc
+ entrar a clase
+     fin del programa
